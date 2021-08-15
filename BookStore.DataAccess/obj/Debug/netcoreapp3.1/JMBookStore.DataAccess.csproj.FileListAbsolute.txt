@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\bin\Debug\netcoreapp3.1\JMBookStore.DataAccess.deps.json
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\bin\Debug\netcoreapp3.1\JMBookStore.DataAccess.runtimeconfig.json
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\bin\Debug\netcoreapp3.1\JMBookStore.DataAccess.runtimeconfig.dev.json
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\bin\Debug\netcoreapp3.1\JMBookStore.DataAccess.dll
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\bin\Debug\netcoreapp3.1\JMBookStore.DataAccess.pdb
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\bin\Debug\netcoreapp3.1\JMBookStore.Models.dll
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\bin\Debug\netcoreapp3.1\JMBookStore.Utility.dll
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\bin\Debug\netcoreapp3.1\JMBookStore.Models.pdb
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\bin\Debug\netcoreapp3.1\JMBookStore.Utility.pdb
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\obj\Debug\netcoreapp3.1\JMBookStore.DataAccess.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\obj\Debug\netcoreapp3.1\JMBookStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\obj\Debug\netcoreapp3.1\JMBookStore.DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\obj\Debug\netcoreapp3.1\JMBookStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\obj\Debug\netcoreapp3.1\JMBookStore.DataAccess.csproj.CopyComplete
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\obj\Debug\netcoreapp3.1\JMBookStore.DataAccess.dll
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\obj\Debug\netcoreapp3.1\JMBookStore.DataAccess.pdb
+C:\Users\user\Desktop\ASP.NET Core\JMBookStore\BookStore.DataAccess\obj\Debug\netcoreapp3.1\JMBookStore.DataAccess.genruntimeconfig.cache
